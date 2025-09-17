@@ -1,6 +1,6 @@
 # 🏆 AI Drift & Threat Detection in Cloud Systems
 
-> **Hackathon-Winning Project** — Real-time AI Model Drift Detection + Cyber Threat Intelligence for AWS/Azure Cloud Environments.
+ Real-time AI Model Drift Detection + Cyber Threat Intelligence for AWS/Azure Cloud Environments.
 
 ## ✅ Features
 
